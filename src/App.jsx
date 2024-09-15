@@ -210,7 +210,7 @@ function App() {
         </div>
       </div>
 
-      <div className="hero bg-base-200 min-h-fit flex flex-col justify-start items-center w-full mx-10">
+      <div className="hero bg-base-200 min-h-fit flex flex-col justify-start items-center w-full ">
         <div>
           <h2 className="self-start font-semibold text-2xl my-5 mx-5">Catatan Anda</h2>
           <div className="hero-content flex flex-wrap justify-center min-w-fit items-center gap-5 border border-primary rounded-3xl lg:justify-start md:items-start">
